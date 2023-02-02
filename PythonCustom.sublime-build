@@ -1,0 +1,4 @@
+{
+	"file_patterns":["*.py"],
+	"cmd": ["cmd","/k","start","cmd","/k","py","$file"]
+}
